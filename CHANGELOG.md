@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Upgrade dependencies
+
 ## 0.1.1
 
 * Migration to null-safety
